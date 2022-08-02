@@ -4,7 +4,7 @@ This application allows a user to search for a pokemon. The results will display
 
 ## Installation
 
-Reference the requirements.txt file to see what installations are required.
+Reference the requirements.txt file to see what installations are required. You'll also need to set your flask environment to development.
 
 
 ## Questions/Comments
